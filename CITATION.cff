@@ -5,8 +5,8 @@ type: software
 authors:
   - family-names: Carvalho
     given-names: Lucas Orbolato
-url: "https://github.com/Orbolato/BNN-Flight-Delay-Reproducibility"
-repository-code: "https://github.com/Orbolato/BNN-Flight-Delay-Reproducibility"
+url: "https://github.com/Orbolato/BNN-Flight-Delay-Prediction"
+repository-code: "https://github.com/Orbolato/BNN-Flight-Delay-Prediction"
 license: MIT
 date-released: 2026-10-08
 preferred-citation:
